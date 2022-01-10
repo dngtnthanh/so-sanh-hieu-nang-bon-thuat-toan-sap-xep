@@ -1,0 +1,7 @@
+D:\Du lieu 1\thu nghiem 1\ConsoleApplication2\Debug\ConsoleApplication2.exe
+D:\Du lieu 1\thu nghiem 1\ConsoleApplication2\Debug\ConsoleApplication2.pdb
+C:\Users\User\Desktop\Do_an_mon_hoc_1\Chuong trinh c++\Do_an_1_tren_VS2019\Debug\ConsoleApplication2.exe
+C:\Users\User\Desktop\Do_an_mon_hoc_1\Chuong trinh c++\Do_an_1_tren_VS2019\Debug\ConsoleApplication2.pdb
+D:\Do_an_mon_hoc_1\Chuong trinh c++\Do_an_1_tren_VS2019\Debug\ConsoleApplication2.exe
+D:\Do_an_mon_hoc_1\Chuong trinh c++\Do_an_1_tren_VS2019\Debug\ConsoleApplication2.pdb
+D:\Do an 2\DoAn1\CodeCT\Chuong_trinh_1_tren_Visual_Studio_2019\Debug\ConsoleApplication2.exe
